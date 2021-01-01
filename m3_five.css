@@ -1,0 +1,23 @@
+
+#first
+{
+ border: 10px solid;
+ color:navy;
+ font-size: 20px;
+ font-style: normal;
+}
+#second
+{
+    border: 10px dashed;
+    color:navy;
+    font-size: 20px;
+    font-style: italic;
+}
+#third
+{
+    border: 10px dashed;
+    color:navy;
+    font-size: 20px;
+    font-style: oblique;
+}
+}

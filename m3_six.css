@@ -1,0 +1,28 @@
+
+#first
+{
+ border: 1px solid;
+ color:navy;
+ font-size: 20px;
+ text-decoration: underline;
+ text-transform: lowercase;
+ font-style: normal;
+}
+#second
+{
+    border: 1px dashed;
+    color:navy;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-style: italic;
+}
+#third
+{
+    border: 1px dashed;
+    color:navy;
+    font-size: 20px;
+    text-decoration: line-through;
+    text-transform: capitalize;
+    font-style: oblique;
+}
